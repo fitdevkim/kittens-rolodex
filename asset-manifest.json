@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kittens-rolodex/static/css/main.3662f0a8.chunk.css",
+    "main.js": "/kittens-rolodex/static/js/main.48deec0c.chunk.js",
+    "main.js.map": "/kittens-rolodex/static/js/main.48deec0c.chunk.js.map",
+    "runtime~main.js": "/kittens-rolodex/static/js/runtime~main.ef78b9ac.js",
+    "runtime~main.js.map": "/kittens-rolodex/static/js/runtime~main.ef78b9ac.js.map",
+    "static/js/2.07e7c8cd.chunk.js": "/kittens-rolodex/static/js/2.07e7c8cd.chunk.js",
+    "static/js/2.07e7c8cd.chunk.js.map": "/kittens-rolodex/static/js/2.07e7c8cd.chunk.js.map",
+    "index.html": "/kittens-rolodex/index.html",
+    "precache-manifest.81856113f3ed281618be2d782f1215f8.js": "/kittens-rolodex/precache-manifest.81856113f3ed281618be2d782f1215f8.js",
+    "service-worker.js": "/kittens-rolodex/service-worker.js",
+    "static/css/main.3662f0a8.chunk.css.map": "/kittens-rolodex/static/css/main.3662f0a8.chunk.css.map"
+  }
+}
